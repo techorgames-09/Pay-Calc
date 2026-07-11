@@ -35,12 +35,9 @@ STEP 2: cd into the repository and run ./paycalc.sh
 
 _Python3 is a REQUIREMENT for this application, please make sure it is installed._
 
-STEP 1: Download/Clone this repository
+STEP 1: Download the Installer file or portable file from the Releases tab.
 
-STEP 2: run Paycalc-Windows.bat in a command prompt (You may have to edit the properties to make it executable.)
-
-_NOTE: AN EXECUTABLE VERSION OF THIS PROGRAM WILL SOON BE AVAILABLE AND THIS WILL BECOME LEGACY/BUILDING FROM SOURCE CODE._
-
+STEP 2: Either run the .exe file, or extract the .zip file and then run the .exe file depending on what you downloaded.
 
 **macOS:**
 
