@@ -1,0 +1,13 @@
+{
+  "BASE_RATE": 10,
+  "LAUNDRY_ALLOWANCE_PER_SHIFT": 0,
+  "MULTIPLIERS": {
+    "Base Day (Mon-Fri 7am-6pm)": 1.0,
+    "Evening (Mon-Fri 6pm-11pm)": 1.0,
+    "Saturday (7am-11pm)": 1.0,
+    "Sunday Day (9am-11pm)": 1.0,
+    "Night Shift (11pm-7am Mon-Sat)": 1.0,
+    "Sunday Peak/Night": 1.0
+  }
+}
+
