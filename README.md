@@ -9,6 +9,7 @@ If there is another allowance you have, you can add it by editing the code easil
 When you open the program, it will read the config file and from it determine the info you gave it, before then getting you to input what shifts you had that week/what shifts you are going to have that week (by hour, for example you could put in working on Monday from 11:00-16:00), and it will then calculate how much you will be paid for your shifts.
 
 _NOTE: THIS PROGRAM CALCULATES AN ESTIMATE OF YOUR PAY, RESULTS MAY BE INACCURATE FOR A LARGE VARIETY OF REASONS._
+
 _NOTE: AI WAS USED TO HELP CREATE THIS PROGRAM. DO WITH THAT INFORMATION WHAT YOU WILL. PLEASE DON'T HATE ME_
 
 **<h3>FLAGS (In terminal - LINUX ONLY):</h3>**
