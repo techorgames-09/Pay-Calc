@@ -4,13 +4,14 @@
 
 **<h3>How it Works:</h3>**
 
-PayCalc works by the user editing the _config.json_ file with information on pay, including their hourly rate, any loading bonuses (for casual workers), and a laundry allowances.
+PayCalc works by the user editing the _config.json_ (or _config.txt_ on windows) file with information on pay, including their hourly rate, any loading bonuses (for casual workers), and a laundry allowances.
 If there is another allowance you have, you can add it by editing the code easily enough, however for the timebeing I will not be including a guide, as I will soon create an easier way to do this.
-When you open the program, it will read the _config.json_ file and from it determine the info you gave it, before then getting you to input what shifts you had that week/what shifts you are going to have that week (by hour, for example you could put in working on Monday from 11:00-16:00), and it will then calculate how much you will be paid for your shifts.
+When you open the program, it will read the config file and from it determine the info you gave it, before then getting you to input what shifts you had that week/what shifts you are going to have that week (by hour, for example you could put in working on Monday from 11:00-16:00), and it will then calculate how much you will be paid for your shifts.
 
 _NOTE: THIS PROGRAM CALCULATES AN ESTIMATE OF YOUR PAY, RESULTS MAY BE INACCURATE FOR A LARGE VARIETY OF REASONS._
+_NOTE: AI WAS USED TO HELP CREATE THIS PROGRAM. DO WITH THAT INFORMATION WHAT YOU WILL. PLEASE DON'T HATE ME_
 
-**<h3>FLAGS (In terminal):</h3>**
+**<h3>FLAGS (In terminal - LINUX ONLY):</h3>**
 
 --skip-install: Skips the initial update command and python3 install _(on debian linux ONLY)_
 
@@ -32,12 +33,11 @@ STEP 2: cd into the repository and run ./paycalc.sh
 
 
 **WINDOWS:**
+_Note: PayCalc on Windows is now coded entirely seperately to the macOS and Linux versions, as it is now based on Visual Basic._
 
-_Python3 is a REQUIREMENT for this application, please make sure it is installed._
+STEP 1: Download the Installer file from the Releases tab.
 
-STEP 1: Download the Installer file or portable file from the Releases tab.
-
-STEP 2: Either run the .exe file, or extract the .zip file and then run the .exe file depending on what you downloaded.
+STEP 2: Open the installer wizard, install, and you're done!
 
 **macOS:**
 
