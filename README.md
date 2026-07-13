@@ -24,7 +24,7 @@ _NOTE: AI WAS USED TO HELP CREATE THIS PROGRAM. DO WITH THAT INFORMATION WHAT YO
 **<h3>INSTALLING:</h3>**
 
 
-**LINUX**
+**<h4>LINUX</h4>**
 
 Supported distros: Anything ubuntu/debian based should work. No support for Arch-Based distros as of yet, but will be coming.
 
@@ -33,14 +33,15 @@ STEP 1: Clone this repository.
 STEP 2: cd into the repository and run ./paycalc.sh
 
 
-**WINDOWS:**
+**<h4>WINDOWS:</h4>**
+
 _Note: PayCalc on Windows is now coded entirely seperately to the macOS and Linux versions, as it is now based on Visual Basic._
 
 STEP 1: Download the Installer file from the Releases tab.
 
 STEP 2: Open the installer wizard, install, and you're done!
 
-**macOS:**
+**<h4>macOS:</h4>**
 
 _Python3 is a REQUIREMENT for this application, please make sure it is installed._
 
